@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -A | wc -l#!/bin/bash
+ls -A | tail +2 |wc -l
