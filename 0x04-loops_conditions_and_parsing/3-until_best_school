@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#using until creat 10 times best school
+i=10
+until [ $i == 1 ]
+do
+echo "Best School"
+i=$(( i - 1))
+done
