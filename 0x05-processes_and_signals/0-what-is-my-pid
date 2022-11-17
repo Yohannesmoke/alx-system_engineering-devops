@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#bash file that displys its own pid
+echo $BASHPID
